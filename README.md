@@ -6,3 +6,5 @@
 2. 원하는 사진을 고를 경우, 그 사진의 파일명과 그 사진이 하단에 나타난다.
 
 # 실행 화면
+
+![ezgif com-video-to-gif (3)](https://github.com/taeyoonL/picker_view/assets/132141316/16d0480a-3409-4f8b-bbd1-c96fb68d2565)
